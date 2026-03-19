@@ -109,7 +109,7 @@ After running the full notebook you should see:
 - Training/validation accuracy curves for all 4 experiments
 - A confusion matrix on the test set
 - Per-class accuracy bar chart
-- A saved `best_model.pth` file (~20MB)
+- A saved `best_model.pth` file
 
 
 ## Team
